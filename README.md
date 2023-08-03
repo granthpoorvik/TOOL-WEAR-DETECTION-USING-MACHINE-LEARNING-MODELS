@@ -1,4 +1,4 @@
-TOOL WEAR DETECTION USING MACHINE LEARNING MODELS
+# TOOL WEAR DETECTION USING MACHINE LEARNING MODELS
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
