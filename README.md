@@ -15,6 +15,8 @@
 
 ## Introduction
 
+
+
 Tool wear is a common problem in Metal cutting machines. It occurs when the cutting tool gradually loses its sharpness due to friction and heat generated during machining. This can result in poor surface finish, dimensional inaccuracies, and even tool breakage. Tool wear can be caused by various factors such as the type of material being machined, cutting speed, feed rate, and depth of cut.
 Detecting tool wear early is crucial to prevent damage to the workpiece and the machine. Sklearn, linear regression, and support vector machines are powerful tools that can be used to predict tool wear based on data collected from the machine. By analyzing the data, these algorithms can identify patterns and make predictions about when the tool will need to be replaced, allowing for proactive maintenance and reducing downtime.
 
